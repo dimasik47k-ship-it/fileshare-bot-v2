@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="scan_qr">Сканировать</string>
+    <string name="generate_qr">Создать QR</string>
+    <string name="gallery">Галерея</string>
+    <string name="flash_on">Фонарик ВКЛ</string>
+    <string name="flash_off">Фонарик ВЫКЛ</string>
+    <string name="result">Результат</string>
+    <string name="copy">Копировать</string>
+    <string name="share">Поделиться</string>
+    <string name="save">Сохранить</string>
+    <string name="enter_text">Введите текст или URL</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="qr_saved">QR код сохранён</string>
+    <string name="copied">Скопировано</string>
+    <string name="camera_error">Ошибка камеры</string>
+    <string name="permission_required">Требуется разрешение на камеру</string>
+</resources>

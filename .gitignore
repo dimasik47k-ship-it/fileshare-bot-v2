@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Generated files
+app/src/main/res/drawable/ic_flash_on.xml
+app/src/main/res/drawable/ic_flash_off.xml
